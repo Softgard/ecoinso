@@ -24,7 +24,7 @@ if (empty($_POST["phone"])) {
 }
 
 
-$EmailTo = "aakram23@gmail.com";
+$EmailTo = "contacto@ecoinso.cl";
 $Subject = "Nueva Solicitud";
 
 // prepare email body text

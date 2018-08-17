@@ -31,7 +31,7 @@ if (empty($_POST["plan"])) {
 }
 
 
-$EmailTo = "aakram23@gmail.com";
+$EmailTo = "contacto@ecoinso.cl";
 $Subject = "Solicitud de Servicio";
 
 // prepare email body text
